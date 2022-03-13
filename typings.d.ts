@@ -15,7 +15,7 @@ export interface PostInterface {
   slug: {
     current: string
   }
-  body: object
+  body: []
   comments: [CommentInterface]
 }
 
