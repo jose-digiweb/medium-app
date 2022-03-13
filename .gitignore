@@ -5,6 +5,9 @@
 /.pnp
 .pnp.js
 
+mediumnext/node_modules
+
+
 # testing
 /coverage
 
